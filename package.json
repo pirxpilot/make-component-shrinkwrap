@@ -1,0 +1,19 @@
+{
+  "name": "make-component-shrinkwrap",
+  "version": "0.0.0",
+  "repository": "code42day/make-component-shrinkwrap",
+  "description": "component related make target for component-shrinkwrap workflow",
+  "keywords": [
+    "make",
+    "component",
+    "shrinkwrap",
+    "makefile",
+    "jshint",
+    "linting"
+  ],
+  "dependencies": {
+    "component": "~0",
+    "component-shrinkwrap": "~0"
+  },
+  "license": "MIT"
+}
