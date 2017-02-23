@@ -1,7 +1,7 @@
 {
   "name": "make-component-shrinkwrap",
   "version": "1.0.0",
-  "repository": "code42day/make-component-shrinkwrap",
+  "repository": "pirxpilot/make-component-shrinkwrap",
   "description": "component related make target for component-shrinkwrap workflow",
   "keywords": [
     "make",
